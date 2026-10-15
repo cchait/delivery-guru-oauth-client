@@ -1,7 +1,7 @@
 {
-  "client_id": "https://cdn.jsdelivr.net/gh/cchait/delivery-guru-oauth-client@master/dg-client.json",
+  "client_id": "https://cchait.github.io/delivery-guru-oauth-client/dg-client.json",
   "client_name": "Delivery Guru explorer",
-  "client_uri": "https://cdn.jsdelivr.net/gh/cchait/delivery-guru-oauth-client@master/dg-client.json",
+  "client_uri": "https://cchait.github.io/delivery-guru-oauth-client/dg-client.json",
   "redirect_uris": [
     "http://127.0.0.1:8976/callback",
     "http://localhost:8976/callback"
